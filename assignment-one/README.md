@@ -1,4 +1,4 @@
-#CS4320 Assignment 1
+# CS4320 Assignment 1
 ### Matt Hudson - mrh4hd@mail.missouri.edu
 
 My GitHub account: https://github.com/hudso1898
