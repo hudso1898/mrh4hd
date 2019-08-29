@@ -19,7 +19,7 @@ Setting up privileges: ![psql-privileges](psql-privileges.png)
 
 Running the SQL for augur_data: ![psql-augur_data](psql-augur_data.png)
 
-Running the SQL for augur_operations: ![psql-augur_operations](psql-augur_operationss.png)
+Running the SQL for augur_operations: ![psql-augur_operations](psql-augur_operations.png)
 
 Running the SQL for spdx: ![psql-spdx](psql-spdx.png)
 
