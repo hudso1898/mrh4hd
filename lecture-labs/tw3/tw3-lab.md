@@ -7,11 +7,11 @@
 
 ## System Requirements
 
-	- The system will need a database management system to store information including keywords, date, filepath
-	- Interface (Web based and/or mobile application)
-	- Storage space to centrally store image files
-	- Organize images based on keywords in filesystem
-	- Aspect ratio limitations on uploaded image
+	- The system will need a database management system to store information including keywords, date, and filepath.
+	- The system will need an interface (Web based and/or mobile application) for photographers to upload images and editors to use those images.
+	- The system will require sufficient storage space to centrally store image files.
+	- The filesystem of the server will organize images based on keywords in filesystem.
+	- The server will impose aspect ratio limitations on uploaded images.
 
 
 
@@ -30,4 +30,4 @@
 	- System
 		- The system will remove outdated images based on keywords
 		- The system will reject images with a non-standard aspect ratio
-		
+
