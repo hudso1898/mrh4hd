@@ -12,16 +12,28 @@ ERD Diagram Draft
 ## Game Plan
 
 Each of us do one Activity Diagram
+
 Class Diagram - Matt Hudson (independent)
+
 Use Case Diagram - Weiyu (independent)
+
 ERD for the whole system - Samuel (independent)
+
 Sequence Diagram for one activity - Matt & Samuel
+
 State Machine Diagram - Samuel & Weiyu
 
+
 Peer Reviewing
+
 Matt - ERD, State Machine, Other 2 AD
+
 Samuel - Use Case Diagram, Other 2 AD
+
 Weiyu - Class Diagram, Sequence Diagram, Other 2 ADs
+
 (Other 2 ADs == the ones each person didn't do)
 
-Meet once no later than Tuesday Night
+Meet once no later than Tuesday Night; coordinate  over the private #group13 Slack Channel
+
+Complete individual work before the meeting. During the meeting, finish collaboratory work and conduct peer reviewing
