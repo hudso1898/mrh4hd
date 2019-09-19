@@ -34,7 +34,7 @@ Reviewers: Samuel Frimpong Jr., Matt Hudson
 
 ![use-case-diagram](./pictures/use-case-diagram.png)
  
-### **UserCaseDescription**
+### **Use Case Description**
 
 Use Case: Upload files over the web
 
@@ -108,7 +108,7 @@ Reviewers: Weiyu Feng, Matt Hudson
 
 ### 2c. Activity Diagram 3: Searching for Students
 
-An activity diagram to represent TAs/Instructor searching for a student in a course:
+An *activity diagram* to represent TAs/Instructor searching for a student in a course:
 
 > TA can search students in a course
 > relevant data: student data, course data
@@ -122,7 +122,7 @@ Reviewers: Weiyu Fang, Samuel Frimpong Jr.
 
 ## **3. Class Diagram: Reading Assignment Instructions**
 
-A Class Diagram to represent students reading assignment instructions:
+A *class diagram* to represent students reading assignment instructions:
 > 2.	Student is able to read assignment instructions
 > •	relevant data: assignment data
 > •	constraints: Students can only access assignments of the courses that they are enrolled in.
@@ -135,7 +135,7 @@ Reviewers: Weiyu Fang, Samuel Frimpong Jr.
 
 ## **4. Entity-Relationship Diagram**
 
-An Entity-Relationship Diagram to represent the entire system.
+An *entity relationship diagram* to represent the entire system.
 
 **Creator: Samuel Frimpong Jr.**
 
@@ -145,7 +145,7 @@ Reviewers: Weiyu Fang, __Matt Hudson__
 
 ## **5. Sequence Diagram: User Login/Logout**
 
-A sequence diagram to represent users logging in and out of the system:
+A *sequence diagram* to represent users logging in and out of the system:
 
 > Login/Logout
 > relevant data: credential data (username & password)
@@ -159,7 +159,7 @@ Reviewer: Weiyu Fang
 
 ## **6. State Machine Diagram: Assignment Collection**
 
-A state machine diagram to represent the collection of assignments:
+A *tate machine diagram* to represent the collection of assignments:
 
 > 5.	TA can collect assignments by downloading students' submission files
 > •	relevant data: course data, assignment data, submission data
