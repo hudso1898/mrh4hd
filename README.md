@@ -11,6 +11,8 @@ Email: mrh4hd@mail.missouri.edu
 | Assignment 3 | (Resume)  | 8/30/2019 3:06pm | n/a (resume)   |
 | Assignment 4 | 9/18/2019 | 9/18/2019 8:30pm | assignment-four|
 | Assignment 5 | 9/25/2019 | 9/25/2019 3:00pm | assignment-five|
+| Assignment 8 | 11/4/2019 | 11/4/2019 6:45pm | assignment-eight|
+
 ### Lab Group 13
 
 Weiyu Feng, Samuel Frimpong Jr., **Matt Hudson**
